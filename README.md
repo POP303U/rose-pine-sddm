@@ -1,4 +1,4 @@
-<h2 align="center">🗼 Rosé-Pine SDDM 🗼</h2>
+<h2 align="center">🌹 Rosé-Pine SDDM 🌹</h2>
 
 <p align=center>
 A Rosé-Pine theme for the <a href="https://github.com/sddm/sddm">SDDM Login Manager</a>
