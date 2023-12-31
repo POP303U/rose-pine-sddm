@@ -4,6 +4,10 @@
 A Rosé-Pine theme for the <a href="https://github.com/sddm/sddm">SDDM Login Manager</a>
 </p>
 
+<center>
+<img src="./Previews/1.png" alt="preview-1">
+</center>
+
 ## Install
 ### From sources
 > _Assumes that you've installed and configured SDDM correctly_ (if not [read more](https://wiki.archlinux.org/title/SDDM))
