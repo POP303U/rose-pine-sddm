@@ -4,6 +4,7 @@
 A Rosé-Pine theme for the <a href="https://github.com/sddm/sddm">SDDM Login Manager</a>
 </p>
 
+<h2 align=center>Preview</h2>
 <center>
 <img src="./Previews/1.png" alt="preview-1">
 </center>
