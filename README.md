@@ -44,7 +44,6 @@ Current=rose-pine-sddm
 
 - Based on the theme [`Sugar Dark for SDDM`](https://github.com/MarianArlt/sddm-sugar-dark) by [**MarianArlt**](https://github.com/MarianArlt).
 - Forked from [`Tokyo Night for SDDM`](https://github.com/rototrash/tokyo-night-sddm) by [**rototrash**](https://github.com/rototrash).
-- AUR Package by [**julian-poidevin**](https://github.com/julian-poidevin)
 
 ## License
 
